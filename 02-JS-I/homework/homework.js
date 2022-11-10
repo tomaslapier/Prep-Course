@@ -263,12 +263,13 @@ function esVocal(letra){
             }
 
   }
+ 
 
 
 
 
 
-// No modificar nada debajo de esta línea
+// No modificar nada debajo de esta líneaA
 // --------------------------------
 
 module.exports = {
