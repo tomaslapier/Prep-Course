@@ -1,0 +1,5 @@
+Un for es una funcion que sirve para hacer un bucle de una operacion hasta un punto determinado por el mismo for
+
+&&= sirve para adicionar condiciones en las que ambas deben ser correctas, de lo contrario sera false
+||= sirve para agregar condiciones en las que una de ellas deben ser correctas o ambas, de lo contrario sera false
+!= sirve para negar una condicion haciendola comportar de manera opuesta a como esta pensada
